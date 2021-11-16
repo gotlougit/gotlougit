@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello world!
 
-<!--
-**gotlougit/gotlougit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub page
 
-Here are some ideas to get you started:
+My name is Saksham Mittal, though I go by gotlou online. Feel free to go through my repositories for ideas of your own or for curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm fairly experienced with Python, MySQL, and can do basic HTML and CSS, judging from my website.
+
+I have extensive experience with Linux, seeing as how I run it daily.
+
+I'm currently learning C, and have gotten fairly good with it.
+
+I'll update this page with more as time goes on..
