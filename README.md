@@ -1,4 +1,4 @@
-### Hello world!
+# Hello world!
 
 ## Welcome to my GitHub page
 
@@ -9,5 +9,7 @@ I'm fairly experienced with Python, MySQL, and can do basic HTML and CSS, judgin
 I have extensive experience with Linux, seeing as how I run it daily.
 
 I'm currently learning C, and have gotten fairly good with it.
+
+For more info, checkout [my website](https://gotlougit.github.io)
 
 I'll update this page with more as time goes on..
