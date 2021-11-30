@@ -8,9 +8,9 @@ I've been programming for a fairly long time, and tinkering with computers for m
 
 - I've been daily driving Linux for ~5 years and am fairly comfortable with the command line (still learning shell scripting)
 
-- I've messed around with MySQL and the corresponding Python API.
+- I've messed around with MySQL.
 
-- I've learned Python (and now C)!
+- I've learned Python and C!
 
 - I've built a website in the absence of any web frameworks or JavaScript.
 
