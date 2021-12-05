@@ -12,7 +12,7 @@ I've been programming for a fairly long time, and tinkering with computers for m
 
 - I've learned Python and C!
 
-- I've built a website in the absence of any web frameworks or JavaScript.
+- I've [built a website](https://gotlougit.github.io) in the absence of any web frameworks or JavaScript.
 
 - I learned Markdown to write better documentation and to also manage my own personal notes.
 
