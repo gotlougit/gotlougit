@@ -10,7 +10,7 @@ I've been programming for a fairly long time, and tinkering with computers for m
 
 - I've messed around with MySQL.
 
-- I've learned Python and C
+- I've learned Python and C!
 
 - I've [built a website](https://gotlougit.github.io) in the absence of any web frameworks or JavaScript.
 
