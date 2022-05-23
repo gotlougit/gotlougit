@@ -22,6 +22,4 @@ I've been programming for a fairly long time, and tinkering with computers for m
 
 - I then rewrote that game in C by myself [here](https://github.com/gotlougit/cpanzer).
 
-- I'm currently working on [Know Yourself India](https://github.com/gotlougit/knowyourselfindia), in which I'll learn more about the way web services are built on both ends.
-
 I'll update this list as time goes on...
