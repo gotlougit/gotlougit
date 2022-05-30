@@ -10,7 +10,7 @@ I've been programming for a fairly long time, and tinkering with computers for m
 
 - I've messed around with MySQL.
 
-- I've learned Python and C!
+- I've learned Python and C! (and mess with Go and C++ a bit here and there!)
 
 - I've [built a website](https://gotlougit.github.io) in the absence of any web frameworks or JavaScript.
 
@@ -21,5 +21,7 @@ I've been programming for a fairly long time, and tinkering with computers for m
 - I wrote a game with my friends called [panzer](https://github.com/gotlougit/panzer).
 
 - I then rewrote that game in C by myself [here](https://github.com/gotlougit/cpanzer).
+
+- I wrote a small Wordle clone [here](https://gotlougit.github.io/wordleclone) to learn JavaScript
 
 I'll update this list as time goes on...
